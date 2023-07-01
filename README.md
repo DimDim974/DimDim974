@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DimDim974.
-- 👀 I’m interested in programming and pentesting.
+- 👀 I’m interested in programming.
 - 🌱 I’m currently learning the pentesting for Active Directory.
 
 <!---
